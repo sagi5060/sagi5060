@@ -31,9 +31,6 @@ Embedded SW Eng. at Elbit Systems <br>TECHNION - ISRAELI INSTITUTE OF TECHNOLEGH
 ### Overall Performance:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sagi5060&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
 
-### Streaks:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sagi5060&theme=dark&hide_border=false)
-
 ### Top Languages:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sagi5060&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 

@@ -38,6 +38,7 @@ Embedded SW Eng. at Elbit Systems <br>TECHNION - ISRAELI INSTITUTE OF TECHNOLEGH
 ![LangGraph](https://img.shields.io/badge/LangGraph-%23FF4B4B.svg?style=for-the-badge)
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-%23111111.svg?style=for-the-badge&logo=ollama&logoColor=white)
 
 
 # 📊 GitHub Stats:

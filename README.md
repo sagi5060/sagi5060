@@ -1,5 +1,5 @@
 # 💫 About Me:
-Embedded SW Eng. at Elbit Systems <br>TECHNION - ISRAELI INSTITUTE OF TECHNOLEGHY Bsc. Computer science
+AI SW Eng. at Elta IAI <br>TECHNION - ISRAELI INSTITUTE OF TECHNOLEGHY Bsc. Computer science
 
 
 ## 🌐 Socials:

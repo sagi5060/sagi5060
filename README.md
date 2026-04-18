@@ -46,6 +46,9 @@ Embedded SW Eng. at Elbit Systems <br>TECHNION - ISRAELI INSTITUTE OF TECHNOLEGH
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-%23111111.svg?style=for-the-badge&logo=ollama&logoColor=white)
 
+![MCP](https://img.shields.io/badge/MCP-%23333333.svg?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-%23191919.svg?style=for-the-badge&logo=anthropic&logoColor=white)
 
 # 📊 GitHub Stats:
 

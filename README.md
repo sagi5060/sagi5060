@@ -7,6 +7,11 @@ Embedded SW Eng. at Elbit Systems <br>TECHNION - ISRAELI INSTITUTE OF TECHNOLEGH
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sagi_shabtai)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagi-shabtai-a164821b8) 
 # 💻 Tech Stack:
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Fedora](https://img.shields.io/badge/fedora-%2351A2DA.svg?style=for-the-badge&logo=fedora&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-FCC624?style=for-the-badge&logo=ubuntu&logoColor=black)
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -20,10 +25,7 @@ Embedded SW Eng. at Elbit Systems <br>TECHNION - ISRAELI INSTITUTE OF TECHNOLEGH
 ![Postgres](https://img.shields.io/badge/PostgreSQL-%2307405e.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-![Podman](https://img.shields.io/badge/podman-%23892CA0.svg?style=for-the-badge&logo=podman&logoColor=white)
-![Fedora](https://img.shields.io/badge/fedora-%2351A2DA.svg?style=for-the-badge&logo=fedora&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 
 ![CMake](https://img.shields.io/badge/CMake-%23DDDDDD.svg?style=for-the-badge&logo=cmake&logoColor=blue)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
@@ -36,12 +38,15 @@ Embedded SW Eng. at Elbit Systems <br>TECHNION - ISRAELI INSTITUTE OF TECHNOLEGH
 
 ![Jenkins](https://img.shields.io/badge/jenkins-%234D4D4D.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Podman](https://img.shields.io/badge/podman-%23892CA0.svg?style=for-the-badge&logo=podman&logoColor=white)
 ![Artifactory](https://img.shields.io/badge/Artifactory-%23183A61.svg?style=for-the-badge&logo=jfrog&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=atlassian&logoColor=white)
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-%23FF4B4B.svg?style=for-the-badge)
+![Langfuse](https://img.shields.io/badge/Langfuse-%23000000.svg?style=for-the-badge&logo=langfuse&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-%23111111.svg?style=for-the-badge&logo=ollama&logoColor=white)
@@ -49,6 +54,7 @@ Embedded SW Eng. at Elbit Systems <br>TECHNION - ISRAELI INSTITUTE OF TECHNOLEGH
 ![MCP](https://img.shields.io/badge/MCP-%23333333.svg?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-%23191919.svg?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-%23000000.svg?style=for-the-badge&logo=opencode&logoColor=white)
 
 # 📊 GitHub Stats:
 

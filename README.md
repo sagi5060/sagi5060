@@ -24,6 +24,7 @@ Embedded SW Eng. at Elbit Systems <br>TECHNION - ISRAELI INSTITUTE OF TECHNOLEGH
 ![CMake](https://img.shields.io/badge/CMake-%23DDDDDD.svg?style=for-the-badge&logo=cmake&logoColor=blue)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Poetry](https://img.shields.io/badge/Poetry-%2360A5FA.svg?style=for-the-badge&logo=poetry&logoColor=white)
+![uv](https://img.shields.io/badge/uv-7A52B3.svg?style=for-the-badge&logo=uv&logoColor=white)
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)

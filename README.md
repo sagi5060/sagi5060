@@ -10,7 +10,7 @@ Embedded SW Eng. at Elbit Systems <br>TECHNION - ISRAELI INSTITUTE OF TECHNOLEGH
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Fedora](https://img.shields.io/badge/fedora-%2351A2DA.svg?style=for-the-badge&logo=fedora&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-FCC624?style=for-the-badge&logo=ubuntu&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E9430F?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
